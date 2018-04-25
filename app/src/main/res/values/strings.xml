@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AXIS BANK</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="todo1">TODO1</string>
+    <string name="SIGN_IN">SIGN IN</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="textview3">TextView</string>
+    <string name="todo2">TODO2</string>
+    <string name="name">NAME</string>
+    <string name="email_id">EMAIL ID</string>
+    <string name="phone_no">PHONE NO</string>
+    <string name="dob">DOB</string>
+    <string name="address">ADDRESS</string>
+    <string name="user_password">USER PASSWORD</string>
+    <string name="user_name">USER NAME</string>
+    <string name="textview4">TextView</string>
+    <string name="submit">SUBMIT</string>
+    <string name="SIGN_UP">SIGN UP</string>
+    <string name="select_a_pass_phrase_from_the_given_list_of_phrases_given_below">select a pass phrase from the given list of phrases given below .</string>
+    <string name="read_the_phrase_above_three_times_to_enrol_your_voice">Read the phrase above three times to enrol your voice.</string>
+    <string name="tap_and_hold_to_record">tap and hold to record</string>
+    <string name="password">password</string>
+    <string-array name="names">
+        <item>select from below phrases</item>
+        <item>i am going to make him an offer he cannot refuse</item>
+        <item>houston we had a problem</item>
+        <item>my voice is my passport verify me</item>
+        <item>my voice is stroger than passwords</item>
+        <item>my password is not your business</item>
+        <item>my name is unknown to you</item>
+        <item>be yourself everyone else is already taken</item>
+        <item>you can activate security system now</item>
+    </string-array>
+</resources>
